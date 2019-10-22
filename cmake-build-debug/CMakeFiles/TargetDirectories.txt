@@ -1,0 +1,3 @@
+/cygdrive/c/Users/erksters/CLionProjects/Sorting_with_Pointers_to_Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/erksters/CLionProjects/Sorting_with_Pointers_to_Pointers/cmake-build-debug/CMakeFiles/Sorting_with_Pointers_to_Pointers.dir
+/cygdrive/c/Users/erksters/CLionProjects/Sorting_with_Pointers_to_Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
